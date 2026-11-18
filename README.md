@@ -54,6 +54,7 @@ sf/             音色库和它的许可证
 - [开口 kaikou](https://github.com/syydaniel/kaikou)：让克隆的声音，一开口就说人话。
 - [套娃 taowa](https://github.com/syydaniel/taowa)：把「讲一个 skill 的视频」从选题做到发布包。
 - [真实感开关 zhenshi-kaiguan](https://github.com/syydaniel/zhenshi-kaiguan)：用纯代码做出看着像拍出来的 3D 画面。
+- [剧组 juzu](https://github.com/syydaniel/juzu)：从改文案到出片，一个人的 B 站知识视频剧组。
 
 ## 许可
 
